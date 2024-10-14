@@ -1,4 +1,4 @@
-# Mecanica_Clasica
+# Mecánica Clásica
 Repositorio para la asignatura Mecánica Clásica con el profesor Luis Nuñez
 
 Integrantes:
